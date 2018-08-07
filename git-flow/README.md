@@ -38,7 +38,7 @@ $ git checkout develop
 $ git merge release/0.1.0
 
 $ git checkout master
-$ git checkout merge release/0.1.0
+$ git merge release/0.1.0
 $ git flow release finish '0.1.0'
 ```
 
